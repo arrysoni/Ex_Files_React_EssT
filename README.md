@@ -1,7 +1,7 @@
 # My React Project
 
 This project was built as practice for the LinkedIn Learning certification course:  
-**React Essential Training** — specifically the module **“Designing performant apps with React Server Components”**, taught by **Eve Porcello** :contentReference[oaicite:1]{index=1}.
+**React Essential Training** — specifically the module **“Designing performant apps with React Server Components”**, taught by **Eve Porcello**
 
 ---
 
@@ -13,7 +13,7 @@ In this course, Eve Porcello introduces the latest techniques for building a Rea
 - Using modern React hooks (`useState`, `useReducer`, `useEffect`)  
 - Setting up projects with **Vite** and **Next.js**  
 - Understanding **React Server Components** vs. **Client Components**  
-- Employing tools, patterns, and frameworks to future‑proof apps and enhance scalability and performance :contentReference[oaicite:2]{index=2}
+- Employing tools, patterns, and frameworks to future‑proof apps and enhance scalability and performance 
 
 By the end, you’ll be equipped to start your own project or contribute effectively to an existing React codebase.
 
